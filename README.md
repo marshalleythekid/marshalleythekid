@@ -1,7 +1,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=achmadrizkin.achmadrizkin)
 ## Hi I'm Muhammad Jibran Abdurrahman <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'am Achmad Rizki Nur Fauzie a Mobile Developer. I Spend most of time coding outstanding projects.
+I'am Muhammad Jibran Abdurrahman a Web Developer. I Spend most of time coding outstanding projects.
 
 :mailbox: Reach me out!
 
